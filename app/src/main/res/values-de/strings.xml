@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguagePickerSample</string>
+    <string name="apply">ANWENDEN</string>
+    <string name="cancel">STORNIEREN</string>
+    <string name="select_language">Sprache auswählen</string>
+    <string name="language_code">DE</string>
+    <string name="hello_world">Hallo Welt!</string>
+</resources>
